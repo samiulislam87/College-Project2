@@ -1,0 +1,64 @@
+body{
+	background:#333;
+	color:#fff;
+}
+.navbar{
+	border-bottom:3px solid #5bc0de;
+	background: #292b2c;
+	opacity:0.7;
+}
+#home-section{
+	background: url('../img/pexels-photo-145939.jpeg') no-repeat center top;
+	background-size:cover;
+	min-height:700px;
+	background-attachment:fixed;
+}
+.fa{
+	background:#5bc0de;
+	color:#fff;
+	padding:4px;
+	font-size:36px;
+	border-radius:5px;
+}
+.f2{
+	background:#333;
+	color:#fff;
+}
+.d{
+	background:#fcd484;
+}
+.dark-overlay{
+	background: rgb(0,0,0,0.7);
+	min-height: 700px;
+}
+.home-inner{
+	padding-top:150px;
+	padding-bottom: 50px;
+}
+.card-op{
+	opacity:0.7;
+}
+#back img{
+  width:200px;
+  height:200px;
+}
+.foot{
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 768px){
+	#home-section h1{
+		font-size:36px;
+	}
+}
